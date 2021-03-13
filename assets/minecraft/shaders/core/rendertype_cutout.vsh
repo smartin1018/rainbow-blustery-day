@@ -258,70 +258,70 @@ void main() {
         if (Pos.y >= 96.0 && Pos.y < 128.0) {
             xs = 0;
             zs = 0;
-			ys = 0;
+            ys = 0;
         }
     }
     if (Pos.x >= 192.0 && Pos.x < 224.0) { // tall seagrass
         if (Pos.y >= 384.0 && Pos.y < 400.0) {
             xs = 0;
             zs = 0;
-			ys = 0;
+            ys = 0;
         }
     }
     if (Pos.x >= 496.0 && Pos.x < 512.0) { // seagrass
         if (Pos.y >= 336.0 && Pos.y < 352.0) {
             xs = 0;
             zs = 0;
-			ys = 0;
+            ys = 0;
         }
     }
     if (Pos.x >= 48.0 && Pos.x < 112.0) { // small dripleaf
         if (Pos.y >= 352.0 && Pos.y < 368.0) {
             xs = 0;
             zs = 0;
-			ys = 0;
+            ys = 0;
         }
     }
     if (Pos.x >= 240.0 && Pos.x < 256.0) { // large dripleaf
         if (Pos.y >= 112.0 && Pos.y < 144.0) {
             xs = 0;
             zs = 0;
-			ys = 0;
+            ys = 0;
         }
     }
     if (Pos.x >= 256.0 && Pos.x < 272.0) { // large dripleaf top
         if (Pos.y >= 0.0 && Pos.y < 16.0) {
             xs = 0;
             zs = 0;
-			ys = 0;
+            ys = 0;
         }
     }
     if (Pos.x >= 368.0 && Pos.x < 384.0) { // flower azalea bush
         if (Pos.y >= 144.0 && Pos.y < 176.0) {
             xs = 0;
             zs = 0;
-			ys = 0;
+            ys = 0;
         }
     }
     if (Pos.x >= 192.0 && Pos.x < 208.0) { // azalea bush
         if (Pos.y >= 48.0 && Pos.y < 80.0) {
             xs = 0;
             zs = 0;
-			ys = 0;
+            ys = 0;
         }
     }
     if (Pos.x >= 208.0 && Pos.x < 224.0) { // bamboo stem
         if (Pos.y >= 16.0 && Pos.y < 32.0) {
             xs = 0;
             zs = 0;
-			ys = 0;
+            ys = 0;
         }
     }
     if (Pos.x >= 480.0 && Pos.x < 496.0) { // lilypad
         if (Pos.y >= 144.0 && Pos.y < 160.0) {
             xs = 0;
             zs = 0;
-			ys = 0;
+            ys = 0;
         }
     }
 
